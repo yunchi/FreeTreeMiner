@@ -1,0 +1,92 @@
+#Output Statistics for example_free.txt
+#with support 2
+
+number of 2-frequent tree: 26
+time spent: 0
+
+time for generating candidate3 tree set is: 0
+before couting support, the candidate3 tree set is: 200
+the size of frequent3 tree set is: 15
+time for checking candidate: 0
+
+number of MAXIMUM 2-frequent tree: 15
+time spent for Maximum checking: 0
+
+time for generating candidate4 tree set is: 0
+before couting support, the candidate4 tree set is: 37
+the size of frequent4 tree set is: 21
+time for checking candidate: 0
+
+number of MAXIMUM 3-frequent tree: 0
+time spent for Maximum checking: 0
+
+time for generating candidate5 tree set is: 0
+before couting support, the candidate5 tree set is: 30
+the size of frequent5 tree set is: 30
+time for checking candidate: 0
+
+number of MAXIMUM 4-frequent tree: 0
+time spent for Maximum checking: 0
+
+time for generating candidate6 tree set is: 0
+before couting support, the candidate6 tree set is: 38
+the size of frequent6 tree set is: 38
+time for checking candidate: 0
+
+number of MAXIMUM 5-frequent tree: 0
+time spent for Maximum checking: 0
+
+time for generating candidate7 tree set is: 0
+before couting support, the candidate7 tree set is: 41
+the size of frequent7 tree set is: 41
+time for checking candidate: 0
+
+number of MAXIMUM 6-frequent tree: 0
+time spent for Maximum checking: 0
+
+time for generating candidate8 tree set is: 0
+before couting support, the candidate8 tree set is: 35
+the size of frequent8 tree set is: 35
+time for checking candidate: 0
+
+number of MAXIMUM 7-frequent tree: 0
+time spent for Maximum checking: 0
+
+time for generating candidate9 tree set is: 0
+before couting support, the candidate9 tree set is: 23
+the size of frequent9 tree set is: 23
+time for checking candidate: 0
+
+number of MAXIMUM 8-frequent tree: 0
+time spent for Maximum checking: 0
+
+time for generating candidate10 tree set is: 0
+before couting support, the candidate10 tree set is: 10
+the size of frequent10 tree set is: 10
+time for checking candidate: 0
+
+number of MAXIMUM 9-frequent tree: 0
+time spent for Maximum checking: 0
+
+time for generating candidate11 tree set is: 0
+before couting support, the candidate11 tree set is: 2
+the size of frequent11 tree set is: 2
+time for checking candidate: 0
+
+number of MAXIMUM 10-frequent tree: 0
+time spent for Maximum checking: 0
+
+time for generating candidate12 tree set is: 0
+before couting support, the candidate12 tree set is: 0
+the size of frequent12 tree set is: 0
+time for checking candidate: 0
+
+number of MAXIMUM 11-frequent tree: 2
+time spent for Maximum checking: 0
+
+*****Total Generating Time Spent: 0
+*****Total Checking Time Spent: 0
+*****Total Time for Maximum Checking: 0
+*****Total Time Spent: 0
+*****Number of Frequent Subtrees: 241
+*****Number of Maximum Frequent Subtrees: 17
